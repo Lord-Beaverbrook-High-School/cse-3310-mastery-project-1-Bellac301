@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 //import static com.sun.tools.javac.jvm.ByteCodes.swap;
 
-public class Main {
+public class Task {
 
     public static char display() {
 
